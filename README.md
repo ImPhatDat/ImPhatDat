@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Dat Nguyen Phat.
-- 👀 I’m interested in Deep Learning, Machine Learning, Data Science, etc.
-- 🌱 And currently learning Data Science in VNU HCM - University of Science.
-- 📫 How to reach me: phatdatn2003@gmail.com.
+👋 Hi, I’m **Dat Nguyen Phat**!
 
-<!---
-ImPhatDat/ImPhatDat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **About Me:**
+- I’m passionate about Deep Learning, Machine Learning, and Data Science.
+- Currently, I'm pursuing my studies in Data Science at VNU HCM - University of Science.
+
+🔭 **What I’m Working On:**
+- Exploring advanced machine learning techniques and building innovative projects.
+
+🌱 **Learning Journey:**
+- Continuously expanding my knowledge in data science and machine learning.
+
+📫 **Reach Out:**
+- Feel free to connect with me via [phatdatn2003@gmail.com](mailto:phatdatn2003@gmail.com).
+
+🔗 **Find Me Online:**
+- [LinkedIn]([#](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-ph%C3%A1t-940736298/))
