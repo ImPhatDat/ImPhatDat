@@ -14,4 +14,4 @@
 - Feel free to connect with me via [phatdatn2003@gmail.com](mailto:phatdatn2003@gmail.com).
 
 🔗 **Find Me Online:**
-- [LinkedIn]([#](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-ph%C3%A1t-940736298/))
+- [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-ph%C3%A1t-940736298/)
